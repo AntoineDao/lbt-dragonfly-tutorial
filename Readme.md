@@ -3,7 +3,7 @@ title: Dragonfly Tutorial Series
 date: '2018-03-27'
 featuredImage: 'https://images.unsplash.com/photo-1511974035430-5de47d3b95da'
 excerpt: >-
-  This tutorial series will cover the use of ladybug-tools Dragonfly library in a native python ecosystem (no grasshopper required). It should serve as a good basis to better understand the Urban Heat Island effect as well as get used to the Butterfly API.
+  This tutorial series will cover the use of ladybug-tools Dragonfly library in a native python ecosystem (no grasshopper required). It should serve as a good basis to better understand the Urban Heat Island effect as well as get used to the Dragonfly API.
 ---
 
 # Dragonfly Tutorial Series
