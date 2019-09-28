@@ -1,5 +1,5 @@
 ---
-title: Dragonfly Tutorial Series
+title: Dragonfly Tutorials
 date: '2018-03-27'
 featuredImage: 'https://images.unsplash.com/photo-1511974035430-5de47d3b95da'
 excerpt: >-
